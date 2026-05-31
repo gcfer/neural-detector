@@ -10,9 +10,9 @@ The figure (`classical_curves.pdf`) overlays:
 
 **Classical large-system curves** (closed-form + light Monte-Carlo), each solved at its own
 fixed-`Eb` operating point:
-- optimal, dense (Verdú–Shamai log-det, i.i.d. spreading)
+- optimal, dense (log-det, i.i.d. spreading)
 - optimal, sparse `Ns=1` and `Ns=2` (each column has `Ns` nonzero entries)
-- LMMSE, dense (Tse–Hanly fixed point)
+- LMMSE, dense (fixed point)
 - SUMF (single-user matched filter), dense and sparse `Ns=1`
 - orthogonal (`min{1,β}` usable dimensions)
 
